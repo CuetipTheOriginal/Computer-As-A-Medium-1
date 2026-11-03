@@ -2,4 +2,4 @@
 
 ### Group Name: TBA
 
-### Group Members: TBA
+### Group Members: Sydney Lambert, Gabriel Sarriera
