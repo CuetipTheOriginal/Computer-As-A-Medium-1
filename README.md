@@ -1,5 +1,5 @@
 ### This is a repo for the Computer As A Medium Fall 2026.
 
-### Group Name: TBA
+### Group Name: Game Crusaders
 
-### Group Members: Sydney Lambert, Gabriel Sarriera
+### Group Members: Sydney Lambert, Gabriel Sarriera, Joshua Wysluzaly
