@@ -27,4 +27,8 @@ void Spell()
     {
         animator.SetBool("spell", false);
     }
+    if (playermana <= 0)
+    {
+        MessageBox.Show("No Mana")
+    }
 }
