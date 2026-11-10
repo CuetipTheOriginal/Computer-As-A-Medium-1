@@ -21,6 +21,7 @@ void Spell()
     if (Keyboard.current.fKey.wasPressedThisFrame)
     {
         animator.SetBool("spell", true);
+        playermana -= 10;
     }
     else
     {
